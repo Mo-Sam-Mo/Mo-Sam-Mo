@@ -4,7 +4,7 @@
 
 
 
-## I'm a Student at Cairo University, Faculty of Computer Science and Artificial Intelligence
+### I'm a Student at Cairo University, Faculty of Computer Science and Artificial Intelligence
 
 - 🌱 I’m currently learning to be a Full Stack Developer.
 - 👯 I’m looking to collaborate on open source Front end projects and some problem solving challenges.
