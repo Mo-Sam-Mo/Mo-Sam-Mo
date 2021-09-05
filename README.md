@@ -1,7 +1,7 @@
 # Hi amigo 👋| I'm Mohamed you can call me MO
 
 <p align="center">
- <img alt="downloading..." src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="1000" height="600" />
+ <img alt="downloading..." src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="900" height="600" />
 <p/>
 
 
