@@ -1,6 +1,6 @@
 # Hi amigo 👋| I'm Mohamed you can call me MO
 
- <img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" width="500" height="600" />
+ <img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" width="400" height="500" />
 
 
 ### I'm a Student at Cairo University, Faculty of Computer Science and Artificial Intelligence
