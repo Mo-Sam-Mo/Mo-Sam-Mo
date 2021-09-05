@@ -1,6 +1,6 @@
 # Hi amigo 👋| I'm Mohamed you can call me MO
 
-<p align="center">
+<p align="right">
  <img alt=" downloading..." src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" width="500" height="600" />
 <p/>
 
