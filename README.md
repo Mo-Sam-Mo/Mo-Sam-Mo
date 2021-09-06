@@ -10,5 +10,5 @@
 - 📫 How to reach me: mohamedsamer@stud.cu.edu.eg.
 - 😄 Pronouns: He/Him.
 - 🔖 Favorite Quote: What Doesn’t Kill You Makes You Stronger.
-- ⚡ Fun fact: i'm a gamer LOL / destiny 2 / overwatch so come and try to beat me.
 - 🗣️ languages: Arabic / English.
+- ⚡ Fun fact: i'm a gamer LOL / destiny 2 / overwatch so come and try to beat me.
