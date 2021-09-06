@@ -2,7 +2,7 @@
  <img alt=" downloading..." src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1000" height="500" />
 <p/>
 
-# Hi amigo 👋| I'm Mohamed you can call me MO
+# Hi amigo 👋| I'm Mohamed you can call me Mo
 ### I'm a Student at Cairo University, Faculty of Computer Science and Artificial Intelligence
 
 - 🌱 I’m currently learning to be a Full Stack Developer.
