@@ -1,5 +1,5 @@
 <p align="center">
- <img alt=" downloading..." src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" width="800" height="400" />
+ <img alt=" downloading..." src="https://i.pinimg.com/originals/dd/cd/69/ddcd69698b1aa346dd59e651688740e1.gif" width="1000" height="400" />
 <p/>
 
 # Hi amigo 👋| I'm Mohamed you can call me Mo
