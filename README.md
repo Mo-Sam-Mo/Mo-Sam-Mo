@@ -12,11 +12,7 @@
 - ⚡ Fun fact: i'm a gamer LOL / destiny 2 / overwatch / valorant so come and try to beat me.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/esraa-alsaeede-9412a121b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Esraa Alsaeede" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18972422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18972422" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/esraaalsaeede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Esraa Alsaeede" height="30" width="40" /></a>
-<a href="https://www.facebook.com/EsraaAlsaede00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Esraa Alsaede" height="30" width="40" /></a>
-<a href="https://instagram.com/esraa_alsaede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esraa_alsaede" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mo-sam-mo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mo Samer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
