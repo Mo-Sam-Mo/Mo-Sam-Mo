@@ -1,15 +1,15 @@
- # Hi amigo 👋| I'm Mohamed you can call me Mo
- <img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="400" height="300" />
- 
-### I'm a Student at Cairo University, Faculty of Computer Science and Artificial Intelligence
+ # Hello there 👋|I'm Mohamed. You can call me Mo
+ <img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="400" height="300" />
+ 
+### I'm a student at Cairo University, Faculty of Computer Science and Artificial Intelligence, and specialized in AI.
 
-- 🌱 I’m currently learning to be a Software Engineer.
-- 👯 I’m looking to collaborate on open source ML projects and some problem solving challenges.
-- 📫 How to reach me: mohamedsamer@stud.cu.edu.eg.
-- 😄 Pronouns: He/Him.
+- 🌱 I’m currently learning to be a Data Analyst.
+- 👯 I’m looking to collaborate on open source ML, and DL projects and some problem-solving challenges. 
+- 📫 How to reach me: mohamedsamer@stud.cu.edu.eg
+- 😄 Pronouns: he/him. 
 - 🔖 Favorite Quote: What Doesn’t Kill You Makes You Stronger.
 - 🗣️ languages: Arabic / English.
-- ⚡ Fun fact: i'm a gamer LOL / destiny 2 / overwatch / valorant so come and try to beat me.
+- ⚡ Fun fact: I'm a gamer LOL / Valorant so come and try to beat me.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mo-sam-mo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mo Samer" height="30" width="40" /></a>
