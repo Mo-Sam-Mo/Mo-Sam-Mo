@@ -1,4 +1,4 @@
- # Hello there 👋|I'm Mohamed. You can call me Mo
+# Hello there 👋|I'm Mohamed. You can call me Mo
  <img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="400" height="300" />
  
 ### I'm a student at Cairo University, Faculty of Computer Science and Artificial Intelligence, and specialized in AI.
