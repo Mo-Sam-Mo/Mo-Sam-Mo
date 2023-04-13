@@ -1,12 +1,13 @@
 <img align="center" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="1000" height="400" />
+
 # 👋 Hello there, I'm Mohamed you can call me Mo
-#### I'm a Fourth Year AI Student at Cairo University, Faculty of Computer Science and Artificial Intelligence.
+### I'm a Fourth Year AI Student at Cairo University, Faculty of Computer Science and Artificial Intelligence.
 
 # 💫 About Me
-#### - 🔭 I’m working on Graduation Project (Driving behavior and Attitude).
-#### - 👯 I’m looking to collaborate on open-source AI Projects(NLP, Computer Vision).
-#### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
-#### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
+### - 🔭 I’m working on Graduation Project (Driving behavior and Attitude).
+### - 👯 I’m looking to collaborate on open-source AI Projects(NLP, Computer Vision).
+### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
+### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
 
 # 💻 Languages and Tools
 <p align="center">
@@ -24,4 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💬 My Favorite Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?&quote=What doesn’t kill you, makes you stronger&author=Friedrich Nietzsche&type=horizontal&theme=dark)]
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?&quote='What doesn’t kill you, makes you stronger'&author=Friedrich Nietzsche&type=horizontal&theme=dark)]
