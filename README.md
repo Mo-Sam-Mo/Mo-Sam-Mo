@@ -1,19 +1,26 @@
-# Hello there 👋|I'm Mohamed. You can call me Mo
-<img align="right" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="400" height="300" />
+<img align="center" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="1000" height="400" />
+# 👋 Hello there, I'm Mohamed you can call me Mo
+#### I'm a Fourth Year AI Student at Cairo University, Faculty of Computer Science and Artificial Intelligence.
 
-### I'm a student at Cairo University, Faculty of Computer Science and Artificial Intelligence, and specialized in AI.
+# 💫 About Me
+#### - 🔭 I’m working on Graduation Project (Driving behavior and Attitude).
+#### - 👯 I’m looking to collaborate on open-source AI Projects(NLP, Computer Vision).
+#### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
+#### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
 
-- 🌱 I’m currently learning to be a Data Analyst.
-- 👯 I’m looking to collaborate on open source ML, and DL projects and some problem-solving challenges. 
-- 📫 How to reach me: mohamedsamer@stud.cu.edu.eg
-- 😄 Pronouns: he/him. 
-- 🔖 Favorite Quote: What Doesn’t Kill You Makes You Stronger.
-- 🗣️ languages: Arabic / English.
-- ⚡ Fun fact: I'm a gamer LOL / Valorant so come and try to beat me.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mo-sam-mo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mo Samer" height="30" width="40" /></a>
+# 💻 Languages and Tools
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,mysql,php,laravel,cpp,java,git&perline=5" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+# 🌐 Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/mo-sam-mo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/></a> <a href="https://codeforces.com/profile/Xx_MOHAMED_xX"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="codeforces" width="45" height="45" padding="" /></a> <a href="https://leetcode.com/Xx_Mohamed_xX/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="leetcode" width="45" height="45"/></a><a href="https://www.kaggle.com/mohamedsammer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="45" height="45"/></a> 
+</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mo-sam-mo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-quotes.herokuapp.com/quote?type=horizontal&theme=darkquotesUrl=https://github.com/Mo-Sam-Mo/Mo-Sam-Mo/blob/main/quotes.json)
