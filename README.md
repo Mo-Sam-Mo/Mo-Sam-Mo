@@ -4,7 +4,7 @@
 ### I'm a Fourth Year AI Student at Cairo University, Faculty of Computer Science and Artificial Intelligence.
 
 # 💫 About Me
-### - 🔭 I’m working on Graduation Project (Driving behavior and Attitude).
+### - 🔭 I’m working on My Graduation Project (Driving behavior and Attitude).
 ### - 👯 I’m looking to collaborate on open-source AI Projects(NLP, Computer Vision).
 ### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
 ### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
@@ -25,4 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💬 My Favorite Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=What%20doesn’t%20kill%20you,%20makes%20you%20stronger&type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=What%20doesn’t%20kill%20you,%20makes%20you%20stronger&author=Friedrich%20Nietzsche&type=horizontal&theme=dark)
