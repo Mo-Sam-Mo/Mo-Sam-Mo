@@ -26,4 +26,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mo-sam-mo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/Mo-Sam-Mo/Mo-Sam-Mo/blob/main/quotes.json&type=horizontal&theme=dark)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/Mo-Sam-Mo/Mo-Sam-Mo/blob/main/quotes.json)
