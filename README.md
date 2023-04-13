@@ -26,4 +26,4 @@
 
 # 💬 My Favorite Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=What doesn’t kill you, makes you stronger&author=Friedrich Nietzsche&type=horizontal&theme=dark)
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=What doesn’t kill you, makes you stronger&author=Friedrich Nietzsche)](https://github.com/piyushsuthar/github-readme-quotes)
