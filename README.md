@@ -25,4 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💬 My Favorite Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=What%20doesn’t%20kills%20you,%20makes%20you%20stronger&type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=What%20doesn’t%20kill%20you,%20makes%20you%20stronger&type=horizontal&theme=dark)
