@@ -7,10 +7,10 @@
 ### I'm a Fourth Year AI Student at Cairo University, Faculty of Computer Science and Artificial Intelligence.
 
 # 💫 About Me
-#### - 🔭 I’m working on Graduation Project (Driving behavior and Attitude).
-#### - 👯 I’m looking to collaborate on open-source AI Projects(NLP, Computer Vision).
-#### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
-#### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
+### - 🔭 I’m working on Graduation Project (Driving behavior and Attitude).
+### - 👯 I’m looking to collaborate on open-source AI Projects(NLP, Computer Vision).
+### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
+### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
 
 # 💻 Languages and Tools
 <p align="center">
