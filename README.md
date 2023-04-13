@@ -5,7 +5,7 @@
 
 # 💫 About Me
 ### - 🔭 I’m working on My Graduation Project (Driving behavior and Attitude).
-### - 👯 I’m looking to collaborate on open-source AI Projects(NLP, Computer Vision).
+### - 👯 I’m looking to collaborate on open-source AI Projects (NLP, Computer Vision).
 ### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
 ### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
 
