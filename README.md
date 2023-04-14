@@ -8,8 +8,8 @@
 #### - 👯 I’m looking to collaborate on open-source AI Projects (NLP, Computer Vision).
 #### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
 #### - 👩🏻‍💻 Most of my projects are available on [Github](https://github.com/organizations/AI-Code-Buddies).
-#### - 💬 Ask me about anything AI related, I am happy to help.
 #### - 📝 Checkout my [resume](https://drive.google.com/file/d/1qf2qmLTmUDSf0Ndkjdd8NlI0QkJ7syVi/view?usp=sharing).
+#### - 💬 Ask me about anything AI related, I am happy to help.
 #### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
 
 ## 💻 Languages and Tools
