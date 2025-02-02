@@ -12,10 +12,12 @@
 #### - ⚡ Fun Fact: I’m a League of Legends player 🎮—come challenge me if you dare!
 
 ## 💻 Languages and Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,keras,scikit,matlab,mysql,php,laravel,cpp,java,git&perline=6" /> </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,mysql,php,laravel,cpp,java,git&perline=5" />
+</p>
 
 ## 🌐 Socials
-<p align="center"> <a href="https://www.linkedin.com/in/mo-sam-mo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/></a> <a href="https://codeforces.com/profile/Xx_MOHAMED_xX"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="codeforces" width="45" height="45" /></a> <a href="https://leetcode.com/Xx_Mohamed_xX/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="leetcode" width="45" height="45"/></a> <a href="https://www.kaggle.com/mosammo"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="45" height="45"/></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/mo-sam-mo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/></a> <a href="https://leetcode.com/Xx_Mohamed_xX/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="leetcode" width="45" height="45"/></a> <a href="https://www.kaggle.com/mosammo"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="45" height="45"/></a> </p>
 
 ## 📊 GitHub Stats
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-sam-mo&theme=dark&hide_border=false" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />|
