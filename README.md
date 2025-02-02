@@ -1,26 +1,21 @@
 <img align="center" alt=" downloading..." src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif" width="1000" height="400" />
 
 ## 👋 Hello there, I'm Mohamed you can call me Mo
-#### I'm a Fourth Year AI Student at Cairo University 👨🏻‍🎓, and i'm studying (Machine Learning 🤖, Deep Learning 🧠 and Data Science 📈). There is nothing I enjoy more than exploring new technology stacks 💻and leveraging them to build exciting projects 🛠️.
+#### I'm a Computer Science Graduate from Cairo University 🎓, specializing in Artificial Intelligence, Machine Learning 🤖, Deep Learning 🧠, and Data Science 📈. I’m passionate about leveraging cutting-edge technologies to solve real-world problems and build innovative solutions. Whether it's developing AI models, optimizing systems, or collaborating on open-source projects, I thrive on turning ideas into reality through code.
 
 ## 💫 About Me
-#### - 🔭 I’m working on My Graduation Project (Driving behavior and Attitude).
-#### - 👯 I’m looking to collaborate on open-source AI Projects (NLP, Computer Vision).
-#### - 🌱 I’m currently learning Data Analysis & Reinforcement Learning.
-#### - 👩🏻‍💻 Most of my projects are available on [Github](https://github.com/orgs/AI-Code-Buddies/repositories).
-#### - 📝 Checkout my [resume](https://drive.google.com/file/d/1qf2qmLTmUDSf0Ndkjdd8NlI0QkJ7syVi/view?usp=sharing).
-#### - 💬 Ask me about anything AI related, I am happy to help.
-#### - ⚡ Fun fact I'm a lol Gamer so come and try to beat me.
+#### - 🔭 Currently Working On: Advanced AI projects, including real-time computer vision systems and NLP applications.
+#### - 👯 Looking to Collaborate On: Open-source AI Projects (NLP, Computer Vision, and Reinforcement Learning).
+#### - 🌱 Currently Learning: Advanced Reinforcement Learning and improving my skills in Large Language Models (LLMs).
+#### - 📝 Resume: Check out my [resume]() for more details.
+#### - 💬 Ask Me About: Anything AI-related! I’m always happy to help and discuss new ideas.
+#### - ⚡ Fun Fact: I’m a League of Legends player 🎮—come challenge me if you dare!
 
 ## 💻 Languages and Tools
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,mysql,php,laravel,cpp,java,git&perline=5" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,keras,scikit,matlab,mysql,php,laravel,cpp,java,git&perline=6" /> </p>
 
 ## 🌐 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/mo-sam-mo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/></a> <a href="https://codeforces.com/profile/Xx_MOHAMED_xX"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="codeforces" width="45" height="45" padding="" /></a> <a href="https://leetcode.com/Xx_Mohamed_xX/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="leetcode" width="45" height="45"/></a><a href="https://www.kaggle.com/mohamedsammer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="45" height="45"/></a> 
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/mo-sam-mo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/></a> <a href="https://codeforces.com/profile/Xx_MOHAMED_xX"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="codeforces" width="45" height="45" /></a> <a href="https://leetcode.com/Xx_Mohamed_xX/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="leetcode" width="45" height="45"/></a> <a href="https://www.kaggle.com/mosammo"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="45" height="45"/></a> </p>
 
 ## 📊 GitHub Stats
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-sam-mo&theme=dark&hide_border=false" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-sam-mo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />|
